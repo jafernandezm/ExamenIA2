@@ -1,1 +1,6 @@
+drive
 https://drive.google.com/drive/folders/1ws-7gFpJb25ItqkP9aORWJ6bu33JpsB9
+
+
+github
+https://github.com/jafernandezm/ExamenIA2
